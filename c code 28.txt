@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main() {
+    printf("Zeal College of Engineering and Research\n");
+    printf("Department of Robotics and Automation\n");
+    return 0;
+}
