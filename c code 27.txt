@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main() {
+    printf("Welcome to Robotics Lab!\n");
+    printf("Learning C Programming\n");
+    printf("Experiment 1: Hello Robotics\n");
+    return 0;
+}
