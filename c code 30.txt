@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main() {
+    float marks;
+    printf("Enter your marks: ");
+    scanf("%f", &marks);
+    printf("You scored %.2f marks.\n", marks);
+    return 0;
+}
